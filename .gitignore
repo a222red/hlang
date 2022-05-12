@@ -1,0 +1,6 @@
+.stack-work/
+*~
+build.sh
+run.sh
+replit.nix
+.replit
